@@ -1,0 +1,26 @@
+
+`	java:S112N"FDefine and throw a dedicated exception instead of using a generic one.(¼Øùðÿÿÿÿÿ
+w
+java:S11923"\Define a constant instead of duplicating this literal "day must be in range 1 to 7" 3 times.(øóæ¨ýÿÿÿÿ
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÙŠÐû
+V	java:S125"<This block of commented-out lines of code should be removed.(€ç¤­ýÿÿÿÿ
+_
+java:S1192'"IDefine a constant instead of duplicating this literal "Thursday" 3 times.(÷ãî£
+c
+java:S1192!"HDefine a constant instead of duplicating this literal "Tuesday" 3 times.(ê±ûŸúÿÿÿÿ
+`	java:S112M"FDefine and throw a dedicated exception instead of using a generic one.(¶„÷úÿÿÿÿ
+Q	java:S125]"<This block of commented-out lines of code should be removed.(´¨¨’
+b
+java:S1192*"GDefine a constant instead of duplicating this literal "Friday" 3 times.(Ó´âõúÿÿÿÿ
+b
+java:S11920"GDefine a constant instead of duplicating this literal "Sunday" 3 times.(‡ËÎœøÿÿÿÿ
+]
+java:S1192"GDefine a constant instead of duplicating this literal "Monday" 3 times.(ëÉÚ´
+`	java:S112I"FDefine and throw a dedicated exception instead of using a generic one.(øóæ¨ýÿÿÿÿ
+`	java:S1128"FDefine and throw a dedicated exception instead of using a generic one.(êôâºùÿÿÿÿ
+`	java:S1123"FDefine and throw a dedicated exception instead of using a generic one.(øóæ¨ýÿÿÿÿ
+_
+java:S1192-"IDefine a constant instead of duplicating this literal "Saturday" 3 times.(¼è”î
+e
+java:S1192$"JDefine a constant instead of duplicating this literal "Wednesday" 3 times.(¢ÖÚ¾øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(’Î„ñ

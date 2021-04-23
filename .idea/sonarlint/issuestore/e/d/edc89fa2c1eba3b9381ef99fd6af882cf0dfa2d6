@@ -1,0 +1,11 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÚÏÊ¶
+h
+java:S1192"FDefine a constant instead of duplicating this literal "</id>" 4 times.(Ì» ‹üÿÿÿÿ8’‰/
+k
+java:S1192"IDefine a constant instead of duplicating this literal "    <id>" 3 times.(Ì» ‹üÿÿÿÿ8’‰/
+e
+java:S1192"HDefine a constant instead of duplicating this literal "    <x>" 3 times.(‰œ÷8’‰/
+e
+java:S1192"HDefine a constant instead of duplicating this literal "    <y>" 3 times.(ğ¾­8’‰/
+j	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óĞ•‹8’‰/

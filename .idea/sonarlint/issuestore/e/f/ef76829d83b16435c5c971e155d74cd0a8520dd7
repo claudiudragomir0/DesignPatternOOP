@@ -1,0 +1,6 @@
+
+R
+java:S1854"<Remove this useless assignment to local variable "observer".(ÉÖ ú
+C
+java:S1481"-Remove this unused "observer" local variable.(ÉÖ ú
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Â•‘‹

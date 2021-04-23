@@ -1,0 +1,21 @@
+
+U	java:S106A"9Replace this use of System.out or System.err by a logger.(àã‘8«ùÃù/
+5
+java:S1700"Rename field "processor"(°¨ë„8«ùÃù/
+>
+java:S1116""Remove this empty statement.(Åñ­õşÿÿÿÿ8«ùÃù/
+\
+java:S1161?":Add the "@Override" annotation above this method signature(åÊ¶¿ÿÿÿÿÿ8«ùÃù/
+6
+java:S1700"Rename field "chain"(áîÇ–ÿÿÿÿÿ8«ùÃù/
+U	java:S106^"9Replace this use of System.out or System.err by a logger.(ö°ï½8«ùÃù/
+2
+java:S1700-"Rename field "number"(òù´Ê8«ùÃù/
+\
+java:S1161M":Add the "@Override" annotation above this method signature(åÊ¶¿ÿÿÿÿÿ8«ùÃù/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ïş¸èûÿÿÿÿ
+>
+java:S1116)"Remove this empty statement.(Åñ­õşÿÿÿÿ8«ùÃù/
+T	java:S106O"9Replace this use of System.out or System.err by a logger.(èã®M8«ùÃù/
+\
+java:S1161\":Add the "@Override" annotation above this method signature(åÊ¶¿ÿÿÿÿÿ8«ùÃù/

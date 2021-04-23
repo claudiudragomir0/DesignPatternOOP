@@ -1,0 +1,19 @@
+
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(ÑèâŠ
+\
+java:S2259
+"AA "NullPointerException" could be thrown; "dog" is nullable here.(²â÷¸øÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Í™ÿÝ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(æß³½
+L
+java:S1854"7Remove this useless assignment to local variable "dog".(›Óî
+M
+java:S1854"7Remove this useless assignment to local variable "dog".(î‹Ôµ
+Q	java:S125,"<This block of commented-out lines of code should be removed.(¸õÕ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÛÅŠˆùÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(äÜøÒýÿÿÿÿ
+<	java:S131*""Add a default case to this switch.(Å–Ÿ¿ÿÿÿÿÿ
+U
+java:S1118(":Add a private constructor to hide the implicit public one.(à¬…Þþÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(Í™ÿÝ
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×Ù«Ùùÿÿÿÿ8òøøŽ/

@@ -1,0 +1,9 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’ãöİÿÿÿÿÿ
+\
+java:S1118":Add a private constructor to hide the implicit public one.(Ã·ÑÚıÿÿÿÿ8ÖÕ¦Ï/
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(é§²¡ùÿÿÿÿ8ÖÕ¦Ï/
+X	java:S125"<This block of commented-out lines of code should be removed.(ê…åÛ8ÖÕ¦Ï/
+x
+java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(é§²¡ùÿÿÿÿ8£¬§Ï/
